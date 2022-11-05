@@ -8,6 +8,6 @@
     <title>seeder file </title>
 </head>
 <body>
-        <h1> Hello World </h1>
+        <h1> Database : Seeding -  Using Model Factories </h1>
 </body>
 </html>

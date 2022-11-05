@@ -16,6 +16,7 @@ class TeacherSeeder extends Seeder
      */
     public function run()
     {
-        Tearcher::factory()->count(20)->create();
+        Tearcher::factory()->count(20)->create(); // Teacher = model name
+       // Tearcher::factory()->count(5)->suspended()->make();
     }
 }
